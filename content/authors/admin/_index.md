@@ -55,10 +55,10 @@ social:
 #    link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=raKA-agAAAAJ&hl=fr&oi=sra
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/afnolin
 #  - icon: linkedin
 #    icon_pack: fab
 #    link: https://www.linkedin.com/
@@ -77,8 +77,6 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I just completed a PhD in the Forest Research Institute at the University of Québec. My research focuses on the development of multi-century chronologies of annually resolved tree-ring proxies to reconstruct paleodischarges and climate in boreal river watersheds. I particularly explore how novel applications of flood records from tree rings can improve our understanding of paleofloods and their climatic mechanisms.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
