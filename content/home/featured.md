@@ -1,36 +1,20 @@
 ---
-# An instance of the Featured widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: featured
-
-# This file represents a page section.
+widget_id: Featured Publications (test)
 headless: true
-
-# Order that this section appears on the page.
 weight: 80
-
 title: Featured Publications
-subtitle: ''
-
+subtitle: ""
 content:
-  # Page type to display. E.g. post, talk, publication...
   page_type: publication
-  # Choose how many pages you would like to display (0 = all pages)
   count: 0
-  # Filter on criteria
   filters:
-    author: ''
-    category: ''
-    publication_type: ''
-    tag: ''
-  # Page order: descending (desc) or ascending (asc) date.
+    author: ""
+    category: ""
+    publication_type: ""
+    tag: ""
   order: desc
-
 design:
-  # Choose a view for the listings:
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
   view: 3
 ---
+Nolin, A. F., Tardif, J. C., Conciatori, F., Kames, S., Meko, D. M., & Bergeron, Y. (2021). Multi-century tree-ring anatomical evidence reveals increasing frequency and magnitude of spring discharge and floods in eastern boreal Canada. *Global and Planetary Change*, *199*, 103444. <https://doi.org/10.1016/j.gloplacha.2021.103444>
