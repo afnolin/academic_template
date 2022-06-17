@@ -35,10 +35,10 @@ abstract: In eastern boreal Canada, long-term perspective in water resources and
 
 # Summary. An optional shortened abstract.
 summary: 
-•Mean area and number of earlywood vessels are excellent spring flood proxies.
-•Comparable and complementary spring flood signals were extracted by both proxies.
-•Spring flood signal was highly and spatially coherent over the study area.
-•Major floods were recorded by proxies from natural and regulated rivers
+  - Mean area and number of earlywood vessels are excellent spring flood proxies.
+  - Comparable and complementary spring flood signals were extracted by both proxies.
+  - Spring flood signal was highly and spatially coherent over the study area.
+  - Major floods were recorded by proxies from natural and regulated rivers
 
 tags: []
 
