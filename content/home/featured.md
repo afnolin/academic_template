@@ -1,5 +1,5 @@
 ---
-active: true  # Activate this widget? true/false
+active: false  # Activate this widget? true/false
 widget: featured
 widget_id: Featured Publications (test)
 headless: true
