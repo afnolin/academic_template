@@ -1,5 +1,5 @@
 ---
-title: 'Multi-century tree-ring anatomical evidence reveals increasing frequency and magnitude of spring discharge and floods in eastern boreal Canada'
+title: 'Spatial coherency of the spring flood signal among major river basins of eastern boreal Canada inferred from flood rings'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -8,8 +8,6 @@ authors:
   - admin
   - Jacques C. Tardif
   - France Conciatori
-  - Susanne Kames
-  - David M. Meko
   - Yves Bergeron
 
 # Author notes (optional)
@@ -17,8 +15,8 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2021-02-02T00:00:00Z'
-doi: 'https://doi.org/10.1016/j.gloplacha.2021.103444'
+date: '2021-02-13T00:00:00Z'
+doi: 'https://doi.org/10.1016/j.jhydrol.2021.126084'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 
@@ -30,13 +28,17 @@ publishDate:
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Global and Planetary Change*
-publication_short: In *Global and Planetary Change*
+publication: In *Journal of Hydrology*
+publication_short: In *Journal of Hydrology*
 
-abstract: In eastern boreal Canada, variability in river discharge is poorly understood at the multi-century scale due to short instrumental records. In recent decades, increased magnitude and frequency of spring floods have raised concerns about the potential effects of climate change on flood risk. Unlike tree-ring width, flood rings have a demonstrated dendrochronological utility for reconstructing high discharge in boreal environments. In this study, twelve chronologies of earlywood vessel cross-sectional area (a new hydrological proxy) and ring width were developed from riparian Fraxinus nigra trees periodically flooded in spring. These chronologies were used as predictors of Harricana River spring discharge, which was reconstructed for the period 1771–2016. The reconstruction captured 69% of the variance over a 102-year calibration period. The reconstruction indicates that the magnitude and frequency of spring high discharge has increased since the end of the Little Ice Age (1850–1870 CE) and since 1950. The change from a multi-decadal frequency in the late 19th century to a decadal and then interannual frequency in the late 20th century is associated with an increase in snow cover over much of central-eastern Canada. The association between the reconstructed spring discharge and spring atmospheric circulation indices NINO3.4, AMO, NAO may also have changed in these periods and further work is needed to assess the stability of these associations. The correlation between reconstructed and instrumental spring discharge at the regional scale, as well as the shared features in reconstructed discharge and other paleorecords from subarctic Québec suggest a common hydrological signal across the study area and for the early 20th to 21st centuries. The unprecedently low and high spring discharge in recent decades compared to the historical natural variability of the last 250 years also suggests that the increase in flood frequency and magnitude originates from climate change.
+abstract: In eastern boreal Canada, long-term perspective in water resources and hydroelectric dam management is currently limited by the lack of long-term hydrological records. The research for new paleohydrological proxies would help fill this hydrological data gap and provide regional hydroclimatic predictive trajectories in the context of climate change. The development of long annually resolved series of earlywood vessel cross-sectional area has recently demonstrated a high potential for reconstructing high and low discharges. This study analyzes a network of 10 sites scattered around Lake Duparquet. The region covers an area of about 20000 km2 including four river basins characterized by natural and regulated rivers, and unflooded control sites. The objectives were to assess 1) the spatial coherency in flood-rings chronologies among sites and Lake Duparquet, and among hydrological regimes (natural, regulated and unflooded control) and 2) their degree of association with i) annually resolved chronologies of earlywood vessel cross-sectional area and number, ii) a reconstruction of the Harricana River spring discharge and iii) discharge data from eleven hydrometric stations distributed in the study area. It was hypothesized that flood rings would be consistent among natural rivers and absent from regulated rivers. Results showed high spatial coherency among natural rivers with flood rings recording the major floods of the last 250 years. Flood ring and earlywood vessel chronologies were strongly correlated to both reconstructed and instrumental discharge data. On regulated rivers, trees were younger than at the other sites and mainly spring floods that occurred prior to dam creation and the few extreme floods after dam creation were recorded by flood rings. One hypothesis is that older trees (before dam) most likely recorded the natural dynamic of the river, while younger trees (after dam) most likely recorded dam management maneuvers and spring flood exceeding dam capacity. Flood rings and earlywood vessel chronologies provided comparable and complementary hydrological evidence. Flood rings were easily identified visually allowing fast determination of major flood years whereas developing earlywood vessel chronologies, while being more tedious and time consuming, allowed capturing a larger spectrum of hydrological conditions.
 
 # Summary. An optional shortened abstract.
 summary: 
+•Mean area and number of earlywood vessels are excellent spring flood proxies.
+•Comparable and complementary spring flood signals were extracted by both proxies.
+•Spring flood signal was highly and spatially coherent over the study area.
+•Major floods were recorded by proxies from natural and regulated rivers
 
 tags: []
 
@@ -48,7 +50,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://github.com/afnolin/website/blob/main/content/publication/2021a-GloPlaCha/Nolin%20et%20al.2021a-GloPlaCha.pdf'
+url_pdf: ''
 #url_code: ''
 url_dataset: 'https://doi.org/10.17632/d54gcxz9c5.2'
 #url_poster: ''
