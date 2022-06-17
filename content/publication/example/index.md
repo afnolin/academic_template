@@ -48,9 +48,9 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://github.com/afnolin/website/edit/main/content/publication/example/Nolin et al.2021a-GloPlaCha.pdf'
+url_pdf: 'https://github.com/afnolin/website/blob/main/content/publication/example/Nolin%20et%20al.2021a-GloPlaCha.pdf'
 url_code: ''
-url_dataset: ''
+url_dataset: 'https://doi.org/10.17632/d54gcxz9c5.2'
 url_poster: ''
 url_project: ''
 url_slides: ''
