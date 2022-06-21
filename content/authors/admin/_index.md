@@ -14,7 +14,7 @@ organizations:
     #url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I just completed a PhD in the Forest Research Institute at the University of Québec. My research focuses on the development of multi-century chronologies of annually resolved tree-ring proxies to reconstruct paleodischarges and climate in boreal river watersheds. I particularly explore how novel applications of flood records from tree rings can improve our understanding of paleofloods and their climatic drivers.
+bio: I completed a PhD in the Forest Research Institute at the University of Québec. My research focuses on the development of multi-century chronologies of annually resolved tree-ring proxies to reconstruct paleodischarges and climate in boreal river watersheds. I particularly explore how novel applications of flood records from tree rings can improve our understanding of paleofloods and their climatic drivers.
 
 # Interests to show in About widget
 interests:
